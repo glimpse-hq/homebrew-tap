@@ -1,6 +1,6 @@
 cask "glimpse" do
-  version "1.0.1"
-  sha256 "d832c94dacb0ba13a9bc6434a579d69d07763ec6fa92b039a516a718167ac6c4"
+  version "1.0.2"
+  sha256 "ad40084d4d9c3de784ffcbb7f7a3fd71934a647a61346ae9c4e394dcf3981ff0"
 
   url "https://github.com/glimpse-hq/Glimpse/releases/download/v#{version}/Glimpse_#{version}_universal.dmg"
   name "Glimpse"
